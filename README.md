@@ -2,7 +2,7 @@ Guide To Deploy iOS App To The App Store And Your Device
 ========================================
 A short cheat-sheet with Xcode 7.3 Playground ([Design-Patterns.playground.zip](https://raw.githubusercontent.com/ochococo/Design-Patterns-In-Swift/master/Design-Patterns.playground.zip)).
 
-👷 Document maintained by: [Abhishek Patel] 
+👷 Document maintained by: [Abhishek Patel](apatel@varomoney.com) 
 
 ⚠️ See my newest project: [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift)
 
