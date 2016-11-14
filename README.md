@@ -40,8 +40,6 @@ The chain of responsibility pattern is used to process varied requests, each of 
 ```swift
 ```
 
-```swift`
-
 >**Further Examples:** [Design Patterns in Swift](https://github.com/kingreza/Swift-Chain-Of-Responsibility)
 
 Info
